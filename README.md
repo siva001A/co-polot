@@ -1,4 +1,4 @@
-# co-polot
+# co-pilot
 
 this is my repositary
 <br>
